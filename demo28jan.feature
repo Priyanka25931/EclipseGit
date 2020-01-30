@@ -21,7 +21,7 @@ Feature: Pixel store Pos
     Examples: 
       | user    | password    |
       | Lalitha | password123 |
-      | John    | Ravi123     |
+      | John    | Ravi1234   |
       
       @datadriven
       Scenario: search a product
